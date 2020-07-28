@@ -17,3 +17,5 @@
 >> pip install opencv-python
 9) run source 
 >> python face_detect_cv3.py abba.png
+10) import deep learing use mtcnn
+>> pip install mtcnn
