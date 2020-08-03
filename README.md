@@ -2,7 +2,7 @@ deep learning process
 1) problem definition( dinh nghia van de)
 2) data gathering ( thu thap du lieu)
 3) data parsing ( loc du lieu)
-4) traing (tao mohinh)
+4) traing (tao mo hinh)
 5) testing (kiem tra do chinh xac)
 6) deploying (trien khai san pham)
 ------
