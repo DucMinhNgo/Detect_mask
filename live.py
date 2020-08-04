@@ -11,6 +11,7 @@ faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 while(True):
 	# Capture frame-by-frame
 	ret, frame = cap.read()
+	print (frame)
 
 	# Our operations on the frame come here
 	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)

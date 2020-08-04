@@ -23,3 +23,5 @@
 >> pip freeze > requirements.txt
 11) command pip install requirement.txt
 >> pip install -r requirements.txt
+12) install (use with ubuntu)
+>> sudo apt install libcanberra-gtk-module libcanberra-gtk3-module

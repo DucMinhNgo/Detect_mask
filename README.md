@@ -1,5 +1,6 @@
 deep learning process
 1) problem definition( dinh nghia van de)
+detect face -> use some algorithm to recognize mask or no mask.
 2) data gathering ( thu thap du lieu)
 3) data parsing ( loc du lieu)
 4) traing (tao mo hinh)
@@ -13,3 +14,5 @@ MTCNN hoat dong gom ba buoc (moi buoc co mot mang neural rieng biet)
 + R-Net
 + O-Net
 moi buc anh dau vao sex duoc tao ra nhieu ban sao voi nhung kich thuoc khac nhau
+------
+OpenCV, Keras/TensorFlow, Deep learning.
