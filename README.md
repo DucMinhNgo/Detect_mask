@@ -16,3 +16,7 @@ MTCNN hoat dong gom ba buoc (moi buoc co mot mang neural rieng biet)
 moi buc anh dau vao sex duoc tao ra nhieu ban sao voi nhung kich thuoc khac nhau
 ------
 OpenCV, Keras/TensorFlow, Deep learning.
+------
++ Be centered in image.
++ Be rotated that such the eyes lie on a horizontal line ( the face is rotated such that the eyes lie along ).
++ be scaled such that the size of the faces are approximately identical
